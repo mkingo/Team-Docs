@@ -1,7 +1,8 @@
 {
-  "name": "jsm_live_docs",
+  "name": "team_docs",
   "version": "0.1.0",
   "private": true,
+  "author": "Moiz Lokhandwala <https://github.com/mkingo>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
