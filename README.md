@@ -72,8 +72,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/collaborative-editor.git
-cd collaborative-editor
+git clone https://github.com/mkingo/Team-Docs
+cd Team-Docs
 ```
 
 **Installation**
